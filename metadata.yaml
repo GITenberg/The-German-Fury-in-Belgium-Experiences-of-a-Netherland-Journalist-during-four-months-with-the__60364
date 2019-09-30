@@ -1,0 +1,51 @@
+_repo: The-German-Fury-in-Belgium-Experiences-of-a-Netherland-Journalist-during-four-months-with-the__60364
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+  translator:
+    agent_name: Thieme, Carel
+    alias: Thieme, C.‏ ‎(Carel)‏
+    gutenberg_agent_id: '50924'
+    url: http://www.gutenberg.org/2009/agents/50924
+creator:
+  author:
+    agent_name: Mokveld, L. (Lambertus)
+    aliases:
+    - Mokveld, Lambertus Emanuel‏
+    - Mokveld, Lambertus
+    birthdate: 1890
+    deathdate: 1968
+    gutenberg_agent_id: '50923'
+    url: http://www.gutenberg.org/2009/agents/50923
+description: ''
+gutenberg_issued: '2019-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60364'
+  lccn: war17000087
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgium -- History -- German occupation, 1914-1918'
+- !lcsh 'World War, 1914-1918 -- Atrocities'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: 'Preface -- Introduction -- On the way to Liège -- In Liège and back
+  to Maastricht -- Round about Liège -- Visé destroyed: a premeditated crime -- Francs-tireurs?
+  -- With the Flemings -- Liège after the occupation -- Louvain destroyed -- Louvain
+  under the mailed fist -- Along the Meuse to Huy, Andenne, and Namur -- From Maastricht
+  to the French frontier: the destruction of Dinant -- On the battle-fields -- Round
+  about Bilsen -- During the siege of Antwerp -- The ill-treatment of British wounded
+  -- On the Yser.'
+title: "The German Fury in Belgium\r\nExperiences of a Netherland Journalist during\
+  \ four months with the German Army in Belgium"
+url: http://www.gutenberg.org/ebooks/60364
