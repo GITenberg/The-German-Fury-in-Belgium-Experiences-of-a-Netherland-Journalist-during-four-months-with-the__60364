@@ -1,5 +1,5 @@
 _repo: The-German-Fury-in-Belgium-Experiences-of-a-Netherland-Journalist-during-four-months-with-the__60364
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Buchan, John
@@ -14,6 +14,9 @@ contributor:
     alias: Thieme, C.‏ ‎(Carel)‏
     gutenberg_agent_id: '50924'
     url: http://www.gutenberg.org/2009/agents/50924
+covers:
+- cover_type: archival
+  image_path: 60364-h/images/front_cover.jpg
 creator:
   author:
     agent_name: Mokveld, L. (Lambertus)
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '50923'
     url: http://www.gutenberg.org/2009/agents/50923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60364#The-German-Fury-in-Belgium-Experiences-of-a-Netherland-Journalist-during-four-months-with-the_
 gutenberg_issued: '2019-09-26'
 gutenberg_type: Text
 identifiers:
